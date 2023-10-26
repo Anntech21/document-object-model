@@ -1,15 +1,15 @@
 // Questions
 
 // 1. How many child nodes does the body element have in this document?
-//document.body.childNodes
-//NodeList(13) [text, header, text, div.todo-section, text, div, text, script, text, comment, text, script, text]
+//document.body.childNodes.
+// This HTML document has 4 child nodes.
 
 
 // 2. What is the relationship between the div with the class of todo-section and the list element with the text of "Reading"?
 //list element is the grandchild of the div
 
 // 3. What is the relationship between the div with the class of image-gallery and the html element?
-//div element is the great grandchild of html
+//div is the parent and image-gallery id great grandchild in this html document
 
 // 4. Uncomment the following code:
 
